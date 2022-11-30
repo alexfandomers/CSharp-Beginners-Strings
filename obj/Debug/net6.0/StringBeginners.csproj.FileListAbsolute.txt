@@ -1,0 +1,15 @@
+C:\C#\StringBeginners\bin\Debug\net6.0\StringBeginners.exe
+C:\C#\StringBeginners\bin\Debug\net6.0\StringBeginners.deps.json
+C:\C#\StringBeginners\bin\Debug\net6.0\StringBeginners.runtimeconfig.json
+C:\C#\StringBeginners\bin\Debug\net6.0\StringBeginners.dll
+C:\C#\StringBeginners\bin\Debug\net6.0\StringBeginners.pdb
+C:\C#\StringBeginners\obj\Debug\net6.0\StringBeginners.csproj.AssemblyReference.cache
+C:\C#\StringBeginners\obj\Debug\net6.0\StringBeginners.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\StringBeginners\obj\Debug\net6.0\StringBeginners.AssemblyInfoInputs.cache
+C:\C#\StringBeginners\obj\Debug\net6.0\StringBeginners.AssemblyInfo.cs
+C:\C#\StringBeginners\obj\Debug\net6.0\StringBeginners.csproj.CoreCompileInputs.cache
+C:\C#\StringBeginners\obj\Debug\net6.0\StringBeginners.dll
+C:\C#\StringBeginners\obj\Debug\net6.0\refint\StringBeginners.dll
+C:\C#\StringBeginners\obj\Debug\net6.0\StringBeginners.pdb
+C:\C#\StringBeginners\obj\Debug\net6.0\StringBeginners.genruntimeconfig.cache
+C:\C#\StringBeginners\obj\Debug\net6.0\ref\StringBeginners.dll
